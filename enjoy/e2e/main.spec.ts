@@ -111,7 +111,7 @@ test("configure medium ONNX CPU sessions safely on macOS", async () => {
           enableCpuMemArena: false,
           enableMemPattern: false,
           executionMode: "sequential",
-          intraOpNumThreads: 1,
+          intraOpNumThreads: 4,
           interOpNumThreads: 1,
         });
       } else {
