@@ -15,7 +15,7 @@ index 3498823fa96241f60fd8843f92bf476474301a6f..a1ea885dc54e3eb33fd47a6b3e783c22
 +                enableCpuMemArena: false,
 +                enableMemPattern: false,
 +                executionMode: 'sequential',
-+                intraOpNumThreads: 4,
++                intraOpNumThreads: 0,
 +                interOpNumThreads: 1,
 +            });
 +        }
@@ -35,7 +35,7 @@ index 3498823fa96241f60fd8843f92bf476474301a6f..a1ea885dc54e3eb33fd47a6b3e783c22
 +                enableCpuMemArena: false,
 +                enableMemPattern: false,
 +                executionMode: 'sequential',
-+                intraOpNumThreads: 4,
++                intraOpNumThreads: 0,
 +                interOpNumThreads: 1,
 +            });
 +        }

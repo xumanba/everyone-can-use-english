@@ -14134,7 +14134,7 @@ __metadata:
 
 "echogarden@patch:echogarden@npm%3A2.3.5#~/.yarn/patches/echogarden-npm-2.3.5-351eef5932.patch":
   version: 2.3.5
-  resolution: "echogarden@patch:echogarden@npm%3A2.3.5#~/.yarn/patches/echogarden-npm-2.3.5-351eef5932.patch::version=2.3.5&hash=f79353"
+  resolution: "echogarden@patch:echogarden@npm%3A2.3.5#~/.yarn/patches/echogarden-npm-2.3.5-351eef5932.patch::version=2.3.5&hash=3e5fe7"
   dependencies:
     "@aws-sdk/client-polly": "npm:^3.758.0"
     "@aws-sdk/client-transcribe-streaming": "npm:^3.758.0"
